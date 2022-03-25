@@ -1,9 +1,3 @@
-| | 11347700-11367700 | 40185800-40195800 |
-|---:|:---|:---|
-| 8 cell | 1090 | 464 |
-| epiblast | 2328 | 1062 |
-| ICM | 1456 | 630 |
-
 | Метка | Файл |
 |---:|:---|
 | CTCF | hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneDnd41CtcfAlnRep1.bam |
