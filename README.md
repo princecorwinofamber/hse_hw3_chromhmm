@@ -13,3 +13,6 @@
 
 
 ![cellmarkfiletable](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
+
+
+![google colab notebook](https://colab.research.google.com/drive/1EF1XlW3EW4-OmLiFUCZj-vro5173BEhs?usp=sharing)
