@@ -12,7 +12,7 @@
 | H3K04me1 | hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneDnd41H3k04me1AlnRep1.bam |
 
 
-![cellmarkfiletable](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
+[cellmarkfiletable](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
 
 
-![google colab notebook](https://colab.research.google.com/drive/1EF1XlW3EW4-OmLiFUCZj-vro5173BEhs?usp=sharing)
+[google colab notebook](https://colab.research.google.com/drive/1EF1XlW3EW4-OmLiFUCZj-vro5173BEhs?usp=sharing)
