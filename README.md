@@ -12,4 +12,4 @@
 | H3K04me1 | hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneDnd41H3k04me1AlnRep1.bam |
 
 
-![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
+![cellmarkfiletable](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/cellmarkfiletable.txt)
