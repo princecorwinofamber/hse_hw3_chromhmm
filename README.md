@@ -39,6 +39,6 @@
 | 5 | H3K04me1, K27ac | laminB1lads | |
 | 6 | H3K79me2, H3K04me1, K27ac, H3K04me3, H2AFZ | CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSS2kb | |
 | 7 | | laminB1lads | |
-| 8 | | Genome%, laminB1lads | |
+| 8 | | laminB1lads | |
 | 9 | H3K27me3 | laminB1lads | |
 | 10 | CTCF | laminB1lads | |
