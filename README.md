@@ -37,7 +37,7 @@
 | 3 | H3K36me3, H4K20me1, H3K79me2 | RefSeqGene | transcriptional translation |
 | 4 | H3K36me3, H4K20me1, H3K79me2, H3K04me1, K27ac, H3K04me3 | RefSeqGene, RefSeqTes | transcriptional translation, Терминатор |
 | 5 | H3K04me1, K27ac | laminB1lads | Гетерохроматин |
-| 6 | H3K79me2, H3K04me1, K27ac, H3K04me3, H2AFZ | CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSS2kb | Промотор, Экзон |
+| 6 | H3K79me2, H3K04me1, K27ac, H3K04me3, H2AFZ | CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSS2kb | Промотор, Экзон, Энхансер |
 | 7 | | laminB1lads | Гетерохроматин |
 | 8 | | laminB1lads | Гетерохроматин |
 | 9 | H3K27me3 | laminB1lads | Гетерохроматин |
