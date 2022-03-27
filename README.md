@@ -32,10 +32,10 @@
 Таблица свойств:
 | эпигенетический тип | характерные метки | категории | присвоенные названия |
 |---:|:---|:---|:---|
-| 1 | H3K36me3 | | |
-| 2 | H3K36me3 | | |
-| 3 | H3K36me3, H4K20me1, H3K79me2 | | |
-| 4 | H3K36me3, H4K20me1, H3K79me2, H3K04me1, K27ac, H3K04me3 | | |
+| 1 | H3K36me3 | RefSeqExon, RefSeqGene, RefSeqTes | |
+| 2 | H3K36me3 | RefSeqGene | |
+| 3 | H3K36me3, H4K20me1, H3K79me2 | RefSeqGene | |
+| 4 | H3K36me3, H4K20me1, H3K79me2, H3K04me1, K27ac, H3K04me3 | RefSeqGene, RefSeqTes | |
 | 5 | H3K04me1, K27ac | | |
 | 6 | H3K79me2, H3K04me1, K27ac, H3K04me3, H2AFZ | | |
 | 7 | | | |
