@@ -27,3 +27,18 @@
 ![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/Dnd41_10_overlap.png)
 ![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/Dnd41_10_RefSeqTSS_neighborhood.png)
 ![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/Dnd41_10_RefSeqTES_neighborhood.png)
+
+
+Таблица свойств:
+| эпигенетический тип | характерные метки | присвоенные названия |
+|---:|:---|:---|
+| 1 | H3K36me3 | |
+| 2 | H3K36me3 | |
+| 3 | H3K36me3, H4K20me1, H3K79me2 | |
+| 4 | H3K36me3, H4K20me1, H3K79me2, H3K04me1, K27ac, H3K04me3 | |
+| 5 | H3K04me1, K27ac | |
+| 6 | H3K79me2, H3K04me1, K27ac, H3K04me3, H2AFZ | |
+| 7 | | |
+| 8 | | |
+| 9 | H3K27me3 | |
+| 10 | CTCF | |
