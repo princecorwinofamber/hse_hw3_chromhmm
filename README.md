@@ -16,3 +16,6 @@
 
 
 [google colab notebook](https://colab.research.google.com/drive/1EF1XlW3EW4-OmLiFUCZj-vro5173BEhs?usp=sharing)
+
+
+[папка с выдачей ChromHMM](https://github.com/princecorwinofamber/hse_hw3_chromhmm/tree/main/learned_model)
