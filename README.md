@@ -46,3 +46,17 @@
 
 ![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/uscs1.png)
 ![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/uscs2.png)
+
+
+# Бонусное задание
+
+tail -n +2 Dnd41_10_dense.bed > copy.bed  
+Далее идёт код python  
+import pandas as pd  
+df = pd.read_csv("copy.bed", sep="\t")  
+df.iloc[:, 3] = df.iloc[:, 3].replace({1: "1_terminator", 2: "2_translation", 3: "3_translation", 4: "4_terminator", 5: "5_heterochromatin", 6: "6_enhancer", 7: "7_heterochromatin", 8: "8_heterochromatin", 9: "9_heterochromatin", 10: "10_heterochromatin"}) # здесь для каждого эпигенетического типа был выбран наиболее заметное по данных из подходящих для него названий  
+df.to_csv("modified.bed", sep="\t")  
+Далее идут команды терминала  
+cat <(head -n 1 Dnd41_10_dense.bed) modified.bed > renamed.bed  
+
+
