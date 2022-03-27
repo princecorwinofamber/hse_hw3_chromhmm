@@ -32,10 +32,10 @@
 Таблица свойств:
 | эпигенетический тип | характерные метки | категории | присвоенные названия |
 |---:|:---|:---|:---|
-| 1 | H3K36me3 | RefSeqExon, RefSeqGene, RefSeqTes | Экзон, Ген, Терминатор |
-| 2 | H3K36me3 | RefSeqGene | Ген |
-| 3 | H3K36me3, H4K20me1, H3K79me2 | RefSeqGene | Ген |
-| 4 | H3K36me3, H4K20me1, H3K79me2, H3K04me1, K27ac, H3K04me3 | RefSeqGene, RefSeqTes | Ген, Терминатор |
+| 1 | H3K36me3 | RefSeqExon, RefSeqGene, RefSeqTes | Экзон, transcriptional translation, Терминатор |
+| 2 | H3K36me3 | RefSeqGene | transcriptional translation |
+| 3 | H3K36me3, H4K20me1, H3K79me2 | RefSeqGene | transcriptional translation |
+| 4 | H3K36me3, H4K20me1, H3K79me2, H3K04me1, K27ac, H3K04me3 | RefSeqGene, RefSeqTes | transcriptional translation, Терминатор |
 | 5 | H3K04me1, K27ac | laminB1lads | Гетерохроматин |
 | 6 | H3K79me2, H3K04me1, K27ac, H3K04me3, H2AFZ | CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSS2kb | Промотор, Экзон |
 | 7 | | laminB1lads | Гетерохроматин |
