@@ -19,3 +19,11 @@
 
 
 [папка с выдачей ChromHMM](https://github.com/princecorwinofamber/hse_hw3_chromhmm/tree/main/learned_model)
+
+
+Картинки из выдачи ChromHMM:
+
+
+![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/Dnd41_10_overlap.png)
+![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/Dnd41_10_RefSeqTSS_neighborhood.png)
+![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/Dnd41_10_RefSeqTES_neighborhood.png)
