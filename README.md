@@ -42,3 +42,4 @@
 | 8 | | laminB1lads | Гетерохроматин |
 | 9 | H3K27me3 | laminB1lads | Гетерохроматин |
 | 10 | CTCF | laminB1lads | Гетерохроматин |
+
