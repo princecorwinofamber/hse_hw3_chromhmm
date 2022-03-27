@@ -62,4 +62,4 @@ cat <(head -n 1 Dnd41_10_dense.bed) modified.bed > renamed.bed
 
 Файл renamed.bed получился слишком большой, и github оказывается его принимать.
 
-![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/uscs+bonus.png)
+![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/uscs_bonus.png)
