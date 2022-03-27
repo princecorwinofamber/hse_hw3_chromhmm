@@ -43,3 +43,6 @@
 | 9 | H3K27me3 | laminB1lads | Гетерохроматин |
 | 10 | CTCF | laminB1lads | Гетерохроматин |
 
+
+![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/uscs1.png)
+![](https://github.com/princecorwinofamber/hse_hw3_chromhmm/blob/main/uscs2.png)
